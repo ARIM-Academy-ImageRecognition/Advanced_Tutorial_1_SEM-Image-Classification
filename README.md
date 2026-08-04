@@ -10,9 +10,9 @@
 
 | # | ノートブック | ねらい | Colab |
 | --- | --- | --- | --- |
-| 1 | `1_LeNet-5.ipynb` | **歴史編・文法編** — 1998年のLeNet-5を原典に忠実に再現し、Kerasで層を組む文法を1つずつ習得する | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ARIM-ACADEMY-2026/Advanced_Tutorial_1_SEM-Image-Classification/blob/main/1_LeNet-5.ipynb) |
-| 2 | `2_CNN.ipynb` | **現代化編** — LeNet-5を出発点に、解像度・活性化関数・プーリング・正則化を現代的な設計へ更新し、ハイパーパラメータを探索する | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ARIM-ACADEMY-2026/Advanced_Tutorial_1_SEM-Image-Classification/blob/main/2_CNN.ipynb) |
-| 3 | `3_Xception.ipynb` | **転移学習編** — ImageNetで事前学習されたXceptionを流用し、ゼロから学習したCNNと比較する | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ARIM-ACADEMY-2026/Advanced_Tutorial_1_SEM-Image-Classification/blob/main/3_Xception.ipynb) |
+| 1 | `1_LeNet-5.ipynb` | **歴史編・文法編** — 1998年のLeNet-5を原典に忠実に再現し、Kerasで層を組む文法を1つずつ習得する | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ARIM-Academy-ImageRecognition/Advanced_Tutorial_1_SEM-Image-Classification/blob/main/1_LeNet-5.ipynb) |
+| 2 | `2_CNN.ipynb` | **現代化編** — LeNet-5を出発点に、解像度・活性化関数・プーリング・正則化を現代的な設計へ更新し、ハイパーパラメータを探索する | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ARIM-Academy-ImageRecognition/Advanced_Tutorial_1_SEM-Image-Classification/blob/main/2_CNN.ipynb) |
+| 3 | `3_Xception.ipynb` | **転移学習編** — ImageNetで事前学習されたXceptionを流用し、ゼロから学習したCNNと比較する | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ARIM-Academy-ImageRecognition/Advanced_Tutorial_1_SEM-Image-Classification/blob/main/3_Xception.ipynb) |
 
 **1 → 2 → 3 の順に実行してください。** 各冊は単体でも実行できますが、後の冊は前の冊が出力した比較結果（`output/model_comparison_*.csv`）を読み込んで並べて表示します。
 
