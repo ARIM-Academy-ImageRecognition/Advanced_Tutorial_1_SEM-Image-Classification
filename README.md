@@ -1,7 +1,4 @@
-# ARIM-Academy：機器データ利活用ユースケース
-
-## タイトル：CNNによるSEM画像からのナノ構造体の分類
-
+# ARIM-Academy：CNNによるSEM画像からのナノ構造体の分類
 ### 機器：走査電子顕微鏡（SEM）
 ### 分析：畳み込みニューラルネットワーク（LeNet-5 / CNN / Xception）
 
