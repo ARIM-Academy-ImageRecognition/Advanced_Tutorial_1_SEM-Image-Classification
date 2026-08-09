@@ -1,0 +1,11 @@
+{
+  "accuracy":0.6129032258,
+  "balanced_accuracy":0.289972067,
+  "macro_f1":0.2962436742,
+  "weighted_f1":0.5432924365,
+  "conv_blocks":3.0,
+  "layer_size":64.0,
+  "dense_layers":0.0,
+  "n_params":356746.0,
+  "epochs_run":14.0
+}
